@@ -1,6 +1,6 @@
 # Bootstrap 5 Mastery: Your Go-To Guide for Learning, Projects, and Jobs
 
-Bootstrap serves as a favorite tool that allows developers to generate websites efficiently. This tool enables users to develop clean modern designs in an easy manner. This guide provides access to diverse Bootstrap resources that are helpful for users. The cheat sheet guide, tutorial resources, blog content and Material UI tips, along with complete projects and interview questions and books await your discovery. The guide offers simple steps that anyone can understand.
+Bootstrap serves as a favorite tool that allows developers to generate websites efficiently. This tool enables users to develop clean modern designs in an easy manner. This guide provides access to diverse Bootstrap resources that are helpful for users. The cheat sheet guide, tutorial resources, blog content and **[Material UI](https://github.com/material-ui-elements)** tips, along with **[complete projects](https://jvcodes.com/category/source-codes/html-css-javascript/full-project-templates/)** and interview questions and books await your discovery. The guide offers simple steps that anyone can understand.
 
 ## What is Bootstrap?
 
@@ -66,6 +66,7 @@ Practice with full projects. Ideas:
 3. **Admin Dashboard**: Use tables, charts, and navbars.
 
 **[Advance JvFolio Personal Portfolio](https://jvcodes.com/advance-jvfolio-personal-portfolio-template/)**
+**[Portfolio Website Templates](https://github.com/portfolio-website-templates-jv-codes)**
 
 Find free templates on GitHub. Clone repos to learn faster.
 
